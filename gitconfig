@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tjp1992@gmail.com
+	name = TJ Park
